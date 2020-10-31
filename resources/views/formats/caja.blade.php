@@ -1,0 +1,16 @@
+<table>
+    <thead>
+    <tr>
+        <th>Numero</th>
+        <th>Franquicia</th>
+        <th>Estado</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Entero</td>
+            <td>String</td>
+            <td>On|Off</td>
+        </tr>
+    </tbody>
+</table>

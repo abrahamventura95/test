@@ -1,0 +1,16 @@
+<table>
+    <thead>
+    <tr>
+        <th>Producto</th>
+        <th>CodFactura</th>
+        <th>Cantidad</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>String</td>
+            <td>Entero</td>
+            <td>Entero</td>
+        </tr>
+    </tbody>
+</table>

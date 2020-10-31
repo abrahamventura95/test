@@ -1,0 +1,12 @@
+<table>
+    <thead>
+    <tr>
+        <th>Name</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>String</td>
+        </tr>
+    </tbody>
+</table>

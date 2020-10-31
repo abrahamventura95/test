@@ -1,0 +1,16 @@
+<table>
+    <thead>
+    <tr>
+        <th>Codigo</th>
+        <th>#Caja</th>
+        <th>Nombres</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Entero</td>
+            <td>Entero</td>
+            <td>String</td>
+        </tr>
+    </tbody>
+</table>
